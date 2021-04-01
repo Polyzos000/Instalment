@@ -1,0 +1,7 @@
+C:\Users\THEODORE\source\repos\Instalment\Instalment\obj\Debug\Instalment.csprojAssemblyReference.cache
+C:\Users\THEODORE\source\repos\Instalment\Instalment\obj\Debug\Instalment.csproj.CoreCompileInputs.cache
+C:\Users\THEODORE\source\repos\Instalment\Instalment\bin\Debug\Instalment.exe.config
+C:\Users\THEODORE\source\repos\Instalment\Instalment\bin\Debug\Instalment.exe
+C:\Users\THEODORE\source\repos\Instalment\Instalment\bin\Debug\Instalment.pdb
+C:\Users\THEODORE\source\repos\Instalment\Instalment\obj\Debug\Instalment.exe
+C:\Users\THEODORE\source\repos\Instalment\Instalment\obj\Debug\Instalment.pdb
